@@ -1,0 +1,14 @@
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\bin\Debug\net10.0\MisionUno.exe
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\bin\Debug\net10.0\MisionUno.deps.json
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\bin\Debug\net10.0\MisionUno.runtimeconfig.json
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\bin\Debug\net10.0\MisionUno.dll
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\bin\Debug\net10.0\MisionUno.pdb
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.AssemblyInfoInputs.cache
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.AssemblyInfo.cs
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.csproj.CoreCompileInputs.cache
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.dll
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\refint\MisionUno.dll
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.pdb
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.genruntimeconfig.cache
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\ref\MisionUno.dll

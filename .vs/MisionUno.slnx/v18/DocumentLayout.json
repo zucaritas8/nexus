@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FABIANA\\OneDrive\\Documentos\\VStudioFab\\MisionUno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1172EF-B711-AC4F-2A1E-B06F3D1D6E72}|MisionUno\\MisionUno.csproj|c:\\users\\fabiana\\onedrive\\documentos\\vstudiofab\\misionuno\\misionuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1172EF-B711-AC4F-2A1E-B06F3D1D6E72}|MisionUno\\MisionUno.csproj|solutionrelative:misionuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABIANA\\OneDrive\\Documentos\\VStudioFab\\MisionUno\\MisionUno\\Program.cs",
+              "RelativeDocumentMoniker": "MisionUno\\Program.cs",
+              "ToolTip": "C:\\Users\\FABIANA\\OneDrive\\Documentos\\VStudioFab\\MisionUno\\MisionUno\\Program.cs",
+              "RelativeToolTip": "MisionUno\\Program.cs",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAAAMsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T22:10:20.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
