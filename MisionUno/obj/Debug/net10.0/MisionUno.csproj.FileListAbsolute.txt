@@ -12,3 +12,4 @@ C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\ne
 C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.pdb
 C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.genruntimeconfig.cache
 C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\ref\MisionUno.dll
+C:\Users\FABIANA\OneDrive\Documentos\VStudioFab\MisionUno\MisionUno\obj\Debug\net10.0\MisionUno.sourcelink.json
