@@ -12,13 +12,13 @@ La tecnología debe respetar las restricciones de la actividad: C#, aplicación 
 
 **Desventajas:** no cumple el objetivo de experiencia gráfica; los mapas y las criaturas se representan con caracteres; navegación por números y `Console.ReadLine` no ofrece la interacción visual esperada.
 
-### Alternativa B: Windows Forms
+### Alternativa B: Windows Forms o Unity
 
 **Ventajas:** está dentro de las tecnologías solicitadas; permite ventanas, controles, eventos, imágenes, paneles y enlace de datos; Visual Studio incluye diseñador visual.
 
 **Desventajas:** está orientado a Windows; una interfaz de calidad requiere diseñar formularios, gestionar eventos y separar la presentación de la lógica. Las llamadas a consola no pueden trasladarse literalmente.
 
-**Decisión:** usar Windows Forms. Mantener el programa de consola como referencia temporal para comparar reglas durante la migración. Crear una primera versión gráfica con cuatro pantallas principales y una misión vertical.
+**Decisión:** usar Windows Forms o Unity. Mantener el programa de consola como referencia temporal para comparar reglas durante la migración. Crear una primera versión gráfica con cuatro pantallas principales y una misión vertical.
 
 ## 3. Persistencia: memoria frente a SQL Server
 
