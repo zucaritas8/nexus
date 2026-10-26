@@ -53,15 +53,19 @@ class Robot : Personaje
         : base("R-07 Guardian", "Robot", 70, 8, false)
     {
         NivelDefensa = 25;
+        Defensa = NivelDefensa;  /*Pregunta 6 - Corregir Defensa... Localizar Personaje.RecibirDanio y Robot.ActivarSistemaDefensivo*/
     }
 
     public string ActivarSistemaDefensivo()
     {
-        NivelDefensa += 10;
-        return "El robot activa su sistema defensivo. Defensa actual: " + NivelDefensa;
+        NivelDefensa += 20;
+        Defensa += 20;
+
+        return "El robot activa su sistema defensivo. Defensa efectiva: " + Defensa + " (núcleo: " + NivelDefensa + ")";
     }
 
-    public override string Analizar()
+    public override string Analizar() /*Pregunta 8 - Crea una interfaz pequeña y usarla mediante polimorfismo para el método analizar() 
+                                       * haciendo que el robot y el enemigo la implementen usando sus comportamientos existentes.*/
     {
         return "Robot de vigilancia. Su núcleo defensivo responde a cualquier amenaza directa.";
     }
@@ -294,7 +298,7 @@ class Cadete : Personaje
     public int NivelConexion { get; set; }
 
     public Cadete()
-        : base("Cadete", "Cadete", 100, 5, false)
+        : base("Cadete", "Cadete", (0-100), 5, false) /*Pregunta 7 - Incorporar algo que valide el nivel de energia para que tenga un limite de 0-100*/
     {
         Nombre = "";
         Edad = 0;
