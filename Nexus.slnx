@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="MisionUno/Nexus.csproj" />
+  <Project Path="Nexuss/Nexuss.csproj" Id="e5bd51bb-49d7-498d-af2b-830d6ef92d12" />
 </Solution>
