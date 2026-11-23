@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "NXAOOgUtBQM=",
+  "dgSpecHash": "sMEude4Qf4o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\FABIANA\\source\\repos\\nexus\\MisionUno\\Nexus.csproj",
+  "projectFilePath": "C:\\Users\\FABIANA\\source\\repos\\nexuss\\MisionUno\\Nexus.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problema al leer el archivo de caché C:\\Users\\FABIANA\\source\\repos\\nexuss\\MisionUno\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\FABIANA\\source\\repos\\nexuss\\MisionUno\\Nexus.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\FABIANA\\source\\repos\\nexuss\\MisionUno\\Nexus.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -118,7 +118,94 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="fondoNexus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fondoNexus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="AnomaliaBosque" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Secuencia de portales mágicos pixel art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="antorcha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\antorcha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="botones" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paneles pixel art de fantasía_ normal y activo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="caballero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Caballeros pixelados con capas ondeantes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CaballeroJuego" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hoja de sprites de caballero pixel art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Centauro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sprite sheet de centauro guerrero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CentauroB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Centauro arquero bajo la luna mágica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ciervo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hoja de sprites de ciervos pixel art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ciervo2B" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ciervo espectral bajo la luna llena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CiervoB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ciervo mágico bajo la luna llena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CiervoLuminoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sprite de Ciervo Espiritual Luminoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Emblema" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Emblema fantástico NEXUS en pixel art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LoboB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lobo bajo la luna en ruinas antiguas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LoboGris" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hoja de sprites_ lobos pixelados.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Minotauro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hoja de sprites de minotauros.pixelados.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MinotauroB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Minotauro bajo la luna llena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="orbes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sprites pixelados de orbes mágicos luminosos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OsoB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oso rugiente bajo la luna llena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OsoPardo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hoja de sprites de oso pardo pixelado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PistaExpedicion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Medallón de brújula dorada fragmentada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PuntoExtraccion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Marcador rúnico de fuego y piedra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RetratoCaballero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Caballero de acero con capa azul (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TilesetBosque" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tileset nocturno de fantasía en píxel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Unicornio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sprites de unicornio pixel art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UnicornioB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Unicornio bajo la luna encantada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zorro2B" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kitsune bajo la luna mágica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZorroB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zorro Bajo la Luna Mágica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZorroMagico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hoja de sprites de zorro mágico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZorroRojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hoja de sprites de zorros pixel art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
